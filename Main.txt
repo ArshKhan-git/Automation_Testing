@@ -1,1 +1,2 @@
 Hello this is my first line of code in git for Automation testing.
+This repo is kept for all the automation testing learning.
